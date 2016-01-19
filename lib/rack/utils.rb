@@ -624,6 +624,7 @@ module Rack
       415 => 'Unsupported Media Type',
       416 => 'Range Not Satisfiable',
       417 => 'Expectation Failed',
+      418 => 'I\'m A Teapot',
       422 => 'Unprocessable Entity',
       423 => 'Locked',
       424 => 'Failed Dependency',
